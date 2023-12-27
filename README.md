@@ -1,16 +1,13 @@
-# winner
+Features :
+1: randomly select winner
 
-A new Flutter project.
+2: if someone give one address many times, it will be counted once
 
-## Getting Started
+3: one address will not be picked twice
 
-This project is a starting point for a Flutter application.
+4: you can Select winner from unlimited address
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![photo_2023-12-27_14-57-35](https://github.com/rakibsojib1/Select_winner_Randomly/assets/118044314/602d5041-63e5-4455-8c98-cc138ce53bd0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2023-12-27_14-57-38](https://github.com/rakibsojib1/Select_winner_Randomly/assets/118044314/9df395b1-16cf-4ec3-9c68-5f723f634d97)
